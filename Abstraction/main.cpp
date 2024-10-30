@@ -3,7 +3,7 @@ using namespace std;
 
 using ll = long long;
 
-class Woman{
+class Woman {
 private:
     float weight;
     float height;
