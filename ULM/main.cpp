@@ -38,6 +38,7 @@ public:
     }
 };
 
+
 class Truck : public Vehicle
 {
 private:
